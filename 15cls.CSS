@@ -1,9 +1,47 @@
+*{
+  padding: 0;
+  margin: 0
+}
+
 body{
-  background-color: aquamarine;  
+  background:lightskyblue; 
+}  
+
+
+  .container h1{
+    text-align: center;
+    background-color:tomato;
+    border-radius: 13px;
+    margin-left: 100px;
+    margin-right: 150px;
+    padding: 20px;
+    color: white;
+
+  }
+  .container img{
+    height: 180px;
+    width: 300px;
+    border:solid black;
+    border-radius: 15px;
+  } 
+.container h3{
+  text-align: center;
 }
-h1{
-    color: black;
+.container p{
+  text-align: center;
 }
-p{
-    font-family: Verdana;
-font-size: medium;}
+.container h2{
+  text-align: center;
+}
+.container ul li{
+   margin-left: 100px;
+   font-size: 30px;
+}
+}
+  
+   
+  
+    
+
+
+    
